@@ -1,0 +1,23 @@
+# Screenshots and report (the report goes on ZOSIMA, not GitHub)
+*.png
+*.docx
+.folio/
+.~lock*
+*.folio-lock
+
+# Test programs and their output (only Box files are needed)
+Add.asm
+Add.hack
+Max.asm
+Max.hack
+Rect.asm
+Rect.hack
+Pong.asm
+Pong.hack
+
+# Python and editor junk
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+Thumbs.db
